@@ -23,12 +23,12 @@ p {
 }
 
 .heart {
-    position: absolute;
+    position: relative;
     color: #ff0066;
     font-size: 5em;
     animation: heartbeat 1.5s infinite;
-    bottom: 82%;
-    left: 65%;
+    bottom: 250px;
+    left: 350px;
 }
 
 h2 {
